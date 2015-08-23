@@ -1,5 +1,19 @@
-# kick-starter-python
-This is a kick starter for a project that the students in ASSIST internship will be doing.
+# booking management
+This is the back end source code for the "booking management" android app made at Assist software summer internship 2015
+
+Description:
+This app lets the user make and easy and fast booking at health centers near him.
+Steps:
+-choose a clinic from google maps
+-fill in your personal data
+-give us 3 dates when you are free
+-write a short description of what bothers you
+
+As soon as possible someone will contact you and settle the final date of the appointment and confirm your booking.
+You can check the status of your booking anytime using the unique code received by email.
+
+There are 3 statuses: waitting, confirmed and finalized. After the booking is made or the status of their booking is changed the user is informed with an email containing useful information.
+
 
 How to install the application
 ------------------------------
