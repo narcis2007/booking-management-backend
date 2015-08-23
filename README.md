@@ -2,7 +2,7 @@
 This is the back-end source code for the "Booking Banagement" android app made at Assist Software Summer Internship 2015
 
 Description:
-
+------------------------------
 This app lets the user make and easy and fast booking at health centers near him.
 
 Steps:
