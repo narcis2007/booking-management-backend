@@ -19,7 +19,7 @@ There are 3 statuses: waitting, confirmed and finalized. After the booking is ma
 
 How to install the application
 ------------------------------
-
+ 
 - Clone the code from git.
 - Create an environment using [virtualenv](https://virtualenv.pypa.io/en/latest/) and activate it.
 - Install the project dependencies with [pip](https://pip.pypa.io/en/latest/installing.html). Run this command: `pip install -r requirements.txt` while being in the folder with the `requirements.txt` file.
