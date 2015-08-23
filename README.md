@@ -4,7 +4,7 @@ This is the back-end source code for the "Booking Banagement" android app made a
 Description:
 
 This app lets the user make and easy and fast booking at health centers near him.
-------------------------------
+
 Steps:
 ------------------------------
 - choose a clinic from google maps
