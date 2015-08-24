@@ -1,5 +1,5 @@
 # Booking Management
-This is the back-end source code for the "Booking Banagement" android app made at Assist Software Summer Internship 2015
+This is the back-end source code for the "Booking Management" android app made at Assist Software Summer Internship 2015
 
 Description:
 ------------------------------
