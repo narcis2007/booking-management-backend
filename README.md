@@ -4,7 +4,7 @@ This is the back-end source code for the "Booking Management" android app made a
 Description:
 ------------------------------
 This app lets the user make easy and fast bookings at health centers near him.
-It was made musing Python, Django and Django REST Framework.
+It was made using Python, Django and Django REST Framework.
 Steps:
 ------------------------------
 - choose a clinic from google maps
